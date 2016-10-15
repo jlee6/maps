@@ -1,0 +1,13 @@
+*.iml
+.DS_Store
+google_maps_api.xml
+
+.idea
+.gradle
+.externalNativeBuild
+
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+/captures
